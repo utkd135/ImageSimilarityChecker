@@ -7,5 +7,5 @@ This repo consist of the code to check the similarity of the images using the Di
 So the file structure will look like:-  
 --> main.py  
 --> templates  
-    --> index.html  
-    --> result.html  
+--> templates/index.html  
+--> templates/result.html  
